@@ -22,10 +22,8 @@
 
 ・pip install discord.py==1.7.3
 
-
 ・pip install aiohttp
-
 
 ・pip install discord
 
-
+・pip install pystyle==2.0
