@@ -4,14 +4,13 @@
 
 #・OPTION 🟢
 
- ・DISCORD MULTI TOOLS
- ・DISCORD NUKER
- ・DISCORD DM_ALL
- ・TOKEN_INFO
- ・SERVER_LOOKUP
+・DISCORD MULTI TOOLS
+・DISCORD NUKER
+・DISCORD DM_ALL
+・TOKEN_INFO
+・SERVER_LOOKUP
 
-#・REQUIMENT 📁
-
+#・REQUIMENT 📁 
 ・pip install discord.py==1.7.3
 ・pip install aiohttp
 ・pip install discord
