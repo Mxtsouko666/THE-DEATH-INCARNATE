@@ -8,8 +8,14 @@
 
 
 ・DISCORD NUKER
+
+
 ・DISCORD DM_ALL
+
+
 ・TOKEN_INFO
+
+
 ・SERVER_LOOKUP
 
 #・REQUIMENT 📁 
@@ -18,6 +24,8 @@
 
 
 ・pip install aiohttp
+
+
 ・pip install discord
 
 
